@@ -164,22 +164,94 @@ margin-right: 24px;
 .lekha{
     width: 1280px;
     height: 560px;
+    margin-bottom: 10px;
+    margin-top: 5px;
 }
 
 .banner-3{
     background-color: whitesmoke;
     width: 1280px;
-    height: 560px;
-    margin-top: 80px;
+    height: 402px;
     display: flex;
+    border-radius: 8px;
 }
 
 .photo-4{
     width: 408px;
     height: 306px;
+    margin-right: 32px;
+    margin-left: 48px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    border-radius: 8px;
 }
+
+
+
+
 
 .photo-5{
     width: 134px;
     height: 40px;
+}
+
+
+.sa{
+    width: 139px;
+    height: 48px;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    margin: 15px 5px 5px 5px;
+}
+
+.ef{
+    margin-top:  48px;
+    margin-bottom:  48px;
+    margin-right: 48px;
+    margin-left: 32px;
+
+}
+
+
+
+/* banner-4 style */
+
+.banner-4{
+    background-color: whitesmoke;
+    width: 1280px;
+    height: 402px;
+    display: flex;
+    border-radius: 8px;
+    border: none;
+    border-radius: 5px;
+    margin: 15px 5px 5px 5px;
+}
+
+.ef{
+    margin-top:  48px;
+    margin-bottom:  48px;
+    margin-right: 48px;
+    margin-left: 32px;
+}
+
+.photo-7{
+    width: 408px;
+    height: 306px;
+    margin-right: 32px;
+    margin-left: 48px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    border-radius: 8px;
+}
+
+
+
+.sr{
+    background-color: cadetblue;
+    width: 139px;
+    height: 48px;
+    border: none;
+    border-radius: 5px;
+    margin: 15px 5px 5px 5px
 }
